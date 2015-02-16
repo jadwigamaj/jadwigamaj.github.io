@@ -1,0 +1,21 @@
+---
+layout: default
+title: Galeria
+---
+
+<div class="home">
+
+    <ul class="pictures-list">
+      {% for post in site.tags.main_gallery %}
+        <li>
+          <a href="{{ post.url | prepend: site.baseurl }}">
+              <figure>
+                  <img src="/img/{{ post.mini_picture }}" class="thumbnail"/>
+                  <figcaption><h2>{{ post.title }}</h2></figcaption>
+              </figure>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+
+</div>

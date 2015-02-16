@@ -1,0 +1,15 @@
+# Site settings
+title: Jadwiga Maj
+email: jadw.maj@gmail.com
+description: >
+  Jadwiga Maj – absolwentka Wydziału Form Przemysłowych
+  ASP w Krakowie. Dyplom w Katedrze Kolorystyki
+  u prof. Antoniego Haski. Obecnie zajmuje się malarstwem,
+  projektowaniem graficznym oraz pracą pedagogiczną.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jadwigamaj.tk"
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown

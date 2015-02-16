@@ -1,0 +1,18 @@
+.pictures-list {
+    > li {
+        display: inline-block;
+        margin: 10px;
+
+        .thumbnail {
+            width: 200px;
+            height: 200px;
+        }
+    }
+}
+
+.big-picture {
+    figcaption {
+        color: $caption-color;
+        margin-top: 10px;
+    }
+}
