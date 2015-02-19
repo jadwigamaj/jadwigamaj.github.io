@@ -6,7 +6,8 @@ title: Galeria
 <div class="home">
 
     <ul class="pictures-list">
-      {% for post in site.tags.main_gallery %}
+      {% assign pictures = site.tags.main_gallery | sort:"order"  %}
+      {% for post in pictures %}
         <li>
           <a href="{{ post.url | prepend: site.baseurl }}">
               <figure>
