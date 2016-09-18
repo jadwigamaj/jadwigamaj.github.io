@@ -20,6 +20,7 @@ projektowaniem graficznym oraz pracą pedagogiczną.
  - 2012 - „Mała Galeria” Nowy Sącz
  / [relacja](http://www.youtube.com/watch?v=o9bKH6p2H1Y&feature=relmfu )
  - 2014 - [„LimitedEdition” Warszawa](http://limitededition.pl/blog/timing-the-time/)
+ - 2016 - [Galeria „Zamek” Przemyśl](http://kultura.przemysl.pl/?url=7&info=3647)
 
 ### Ważniejsze wystawy zbiorowe:
  - 1998 - „Społecznosć'98” Archidiecezjalne Muzeum, Wrocław
