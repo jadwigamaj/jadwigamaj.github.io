@@ -61,3 +61,6 @@ projektowaniem graficznym oraz pracą pedagogiczną.
 > tonów.
 >
 > &mdash; <cite>Michał Baca</cite>
+
+### Wywiad dla magazynu "Esensja"
+Do przeczytania na [esensja.pl](http://esensja.pl/varia/wywiady/tekst.html?id=23432)
