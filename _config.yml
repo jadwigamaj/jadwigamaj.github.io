@@ -7,7 +7,7 @@ description: >
   u prof. Antoniego Haski. Obecnie zajmuje się malarstwem,
   projektowaniem graficznym oraz pracą pedagogiczną.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jadwigamaj.tk"
+url: "http://jadwigamaj.github.io/"
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
