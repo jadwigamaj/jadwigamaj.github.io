@@ -29,6 +29,7 @@ projektowaniem graficznym oraz pracą pedagogiczną.
  - 2006, 2008, 2010, 2013 – Miedzynarodowe Biennale Pasteli
  - 2011 - Triennale Sztuki, Radom
  - 2012 - [„Nauczyciel i jego uczniowie” Galeria Onamato, Kraków](http://www.wiadomosci24.pl/artykul/wystawa_nauczyciel_tworca_i_jego_uczniowie_w_krakowie_251555.html)
+ - 2016 - 14. Warszawskie Targi Sztuki
 
 ### Fragment komentarza do twórczosci
 > Światy stwarzane przez Jadwigę Maj, przy całej swej
