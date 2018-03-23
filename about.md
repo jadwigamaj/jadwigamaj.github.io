@@ -21,6 +21,8 @@ projektowaniem graficznym oraz pracą pedagogiczną.
  / [relacja](http://www.youtube.com/watch?v=o9bKH6p2H1Y&feature=relmfu )
  - 2014 - [„LimitedEdition” Warszawa](http://limitededition.pl/blog/timing-the-time/)
  - 2016 - [Galeria „Zamek” Przemyśl](http://kultura.przemysl.pl/?url=7&info=3647)
+ - 2017 - [Galeria „Onamato”, Kraków](https://goo.gl/photos/117uWmAuugAXMvmAA)
+ - 2017 - [Galeria Instytutu Kultury Włoskiej w Krakowie](https://photos.app.goo.gl/jjYEwlenBR9gFxRu2)
 
 ### Ważniejsze wystawy zbiorowe:
  - 1998 - „Społecznosć'98” Archidiecezjalne Muzeum, Wrocław
