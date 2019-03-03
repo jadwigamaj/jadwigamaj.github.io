@@ -5,6 +5,6 @@ categories: picture
 tags: main_gallery
 big_picture: wariacje_z_powtorzeniami_d.jpg
 mini_picture: wariacje_z_powtorzeniami_m.jpg
-order: 35
+order: 2
 ---
-80x100,technika mieszana na płótnie.
+Wariacje z powtórzeniami, 80x100,technika mieszana na płótnie, 2010

@@ -5,6 +5,6 @@ categories: picture
 tags: main_gallery
 big_picture: schemat_d.jpg
 mini_picture: schemat_m.jpg
-order: 29
+order: 1
 ---
-60x80,technika mieszana na płótnie.
+Schemat instalacji pneumatycznej Ikarusa, 60x80,technika mieszana na płótnie, 2010

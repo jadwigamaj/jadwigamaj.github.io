@@ -7,4 +7,4 @@ big_picture: inkluzja_kokon_d.jpg
 mini_picture: inkluzja_kokon_m.jpg
 order: 20
 ---
-30x50,technika mieszana na płótnie.
+Inkluzja-kokon,30x50,technika mieszana na płótnie, 2014

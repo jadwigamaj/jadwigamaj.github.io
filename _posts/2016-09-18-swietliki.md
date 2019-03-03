@@ -5,6 +5,6 @@ categories: picture
 tags: main_gallery
 big_picture: swietliki_d.jpg
 mini_picture: swietliki_m.jpg
-order: 50
+order: 36
 ---
-80x80, technika mieszana na płótnie.
+?wietliki, 80x80, technika mieszana na płótnie, 2016
