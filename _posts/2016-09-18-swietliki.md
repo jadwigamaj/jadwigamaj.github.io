@@ -7,4 +7,4 @@ big_picture: swietliki_d.jpg
 mini_picture: swietliki_m.jpg
 order: 36
 ---
-Świetliki, 80x80, technika mieszana na płótnie, 2016
+Świetliki, 80x80, technika mieszana na płótnie, 2016, sprzedany
