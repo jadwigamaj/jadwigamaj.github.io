@@ -23,6 +23,7 @@ projektowaniem graficznym oraz pracą pedagogiczną.
  - 2016 - [Galeria „Zamek” Przemyśl](http://kultura.przemysl.pl/?url=7&info=3647)
  - 2017 - [Galeria „Onamato”, Kraków](https://goo.gl/photos/117uWmAuugAXMvmAA)
  - 2017 - [Galeria Instytutu Kultury Włoskiej w Krakowie](https://photos.app.goo.gl/jjYEwlenBR9gFxRu2)
+ - 2019 - Galeria Bellotto w Warszawie
 
 ### Ważniejsze wystawy zbiorowe:
  - 1998 - „Społecznosć'98” Archidiecezjalne Muzeum, Wrocław
