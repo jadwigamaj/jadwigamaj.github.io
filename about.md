@@ -35,7 +35,7 @@ projektowaniem graficznym oraz pracą pedagogiczną.
  - 2012 - [„Nauczyciel i jego uczniowie” Galeria Onamato, Kraków](http://www.wiadomosci24.pl/artykul/wystawa_nauczyciel_tworca_i_jego_uczniowie_w_krakowie_251555.html)
  - 2016 - 14. Warszawskie Targi Sztuki
 
-### Fragment komentarza do twórczosci
+### Fragment komentarza do twórczości
 > Światy stwarzane przez Jadwigę Maj, przy całej swej
 > konsekwencji i rygorze kompozycji, są zaskakująco rozmaite.
 > Paradoksalnie, ten typ abstrakcji nie jest zawężeniem, lecz
