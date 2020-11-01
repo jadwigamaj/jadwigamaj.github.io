@@ -25,7 +25,7 @@ projektowaniem graficznym oraz pracą pedagogiczną.
  - 2017 - [Galeria Instytutu Kultury Włoskiej w Krakowie](https://photos.app.goo.gl/jjYEwlenBR9gFxRu2)
  - 2019 - Galeria Bellotto w Warszawie
  - 2019 - [Muzeum Ziemi Błońskiej](https://www.facebook.com/PoniatowkaBlonie/photos/pcb.499436257339751/499435604006483/?type=3&theater)
- - 2020 - [Muzeum Okręgowe w Nowym Sączu](http://muzeum.sacz.pl/strony_aktualnosci/wystawa-od-morza-srodziemnego-do-baltyku-obrazy-jadwigi-maj/)
+ - 2020 - [Muzeum Okręgowe w Nowym Sączu](http://muzeum.sacz.pl/strony_wystawy/19578-2/)
 
 ### Ważniejsze wystawy zbiorowe:
  - 1998 - „Społecznosć'98” Archidiecezjalne Muzeum, Wrocław
