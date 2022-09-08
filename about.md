@@ -14,7 +14,7 @@ projektowaniem graficznym oraz pracą pedagogiczną.
  - 2009 – [Galeria w Zajeżdzie Kościuszkowskim, Kraków](http://www.dworek.krakow.pl/galeria/2009/12/)
  - 2011 – [Galeria „Strug”, Zakopane](http://www.watra.pl/zakopane/kultura/2011/03/20/element-jadwigi-maj)
  / [galeria](http://jmaj.eu01.aws.af.cm)
- - 2011 – Galeria „Atelier”, Kraków
+ - 2011 - Galeria "Atelier" w Synagodze Poppera, Kraków
  - 2011 – [Galeria „Onamato”, Kraków](http://www.poland-art.com/index.php/wystawy/krakow/onamato/5307-jadwiga-maj-w-onamato)
  / [zdjęcia](http://www.sztukpuk.art.pl/wydarzenia_2011_04/656.html)
  - 2012 - „Mała Galeria” Nowy Sącz
@@ -26,6 +26,8 @@ projektowaniem graficznym oraz pracą pedagogiczną.
  - 2019 - Galeria Bellotto w Warszawie
  - 2019 - [Muzeum Ziemi Błońskiej](https://www.facebook.com/PoniatowkaBlonie/photos/pcb.499436257339751/499435604006483/?type=3&theater)
  - 2020 - [Muzeum Okręgowe w Nowym Sączu](http://muzeum.sacz.pl/strony_wystawy/19578-2/)
+ - 2021 - Kolaż-Asamblaż, galeria BWA w Olkuszu (wyróżnienie)
+ - 2022 - Galeria 2 Światy, Kraków
 
 ### Ważniejsze wystawy zbiorowe:
  - 1998 - „Społecznosć'98” Archidiecezjalne Muzeum, Wrocław
