@@ -26,7 +26,6 @@ projektowaniem graficznym oraz pracą pedagogiczną.
  - 2019 - Galeria Bellotto w Warszawie
  - 2019 - [Muzeum Ziemi Błońskiej](https://www.facebook.com/PoniatowkaBlonie/photos/pcb.499436257339751/499435604006483/?type=3&theater)
  - 2020 - [Muzeum Okręgowe w Nowym Sączu](http://muzeum.sacz.pl/strony_wystawy/19578-2/)
- - 2021 - Kolaż-Asamblaż, galeria BWA w Olkuszu (wyróżnienie)
  - 2022 - Galeria 2 Światy, Kraków
 
 ### Ważniejsze wystawy zbiorowe:
@@ -37,6 +36,7 @@ projektowaniem graficznym oraz pracą pedagogiczną.
  - 2011 - Triennale Sztuki, Radom
  - 2012 - [„Nauczyciel i jego uczniowie” Galeria Onamato, Kraków](http://www.wiadomosci24.pl/artykul/wystawa_nauczyciel_tworca_i_jego_uczniowie_w_krakowie_251555.html)
  - 2016 - 14. Warszawskie Targi Sztuki
+ - 2021 - Kolaż-Asamblaż, galeria BWA w Olkuszu (wyróżnienie)
 
 ### Fragment komentarza do twórczości
 > Światy stwarzane przez Jadwigę Maj, przy całej swej
