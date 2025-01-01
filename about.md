@@ -27,6 +27,7 @@ projektowaniem graficznym oraz pracą pedagogiczną.
  - 2019 - [Muzeum Ziemi Błońskiej](https://www.facebook.com/PoniatowkaBlonie/photos/pcb.499436257339751/499435604006483/?type=3&theater)
  - 2020 - [Muzeum Okręgowe w Nowym Sączu](http://muzeum.sacz.pl/strony_wystawy/19578-2/)
  - 2022 - Galeria 2 Światy, Kraków
+ - 2024 - [Muzeum Ziemi Tarnowskiej](https://muzeum.tarnow.pl/web/pl/wystawa-pt-jadwiga-maj-w-przestworzach)
 
 ### Ważniejsze wystawy zbiorowe:
  - 1998 - „Społecznosć'98” Archidiecezjalne Muzeum, Wrocław
